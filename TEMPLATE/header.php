@@ -16,7 +16,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light p-3" id="menu">    
         <div class="container-fluid">
-            <a class="navbar-brand" href="nosotros.php">
+            <a class="navbar-brand" href="index.php">
                 <span class="text-primary fs-1 fw-bold">Fotografía Profesional</span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
