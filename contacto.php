@@ -32,6 +32,11 @@
                     <input type="submit" class="btn btn-primary w-100 fs-5" value="Enviar mensaje">
                 </div>
             </form>
+            <?php
+            if (isset ($_GET["ok"])) {
+                echo "<h3> Su mensaje ha sido enviado con éxito </h3>";
+            }
+            ?>
         </div>
     </section>
 
